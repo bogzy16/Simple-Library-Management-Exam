@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\service\\borroweditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\service\\borroweditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\model\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bogzy\\documents\\simple-library-management-exam\\librarymanagement\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{18D7C730-F5AB-41E6-981B-D0F6DF235D5F}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Model\\ItemModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Model\\ItemModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Model\\BookModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Model\\BookModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\ItemService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Service\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\ItemService.cs",
+              "RelativeToolTip": "LibraryManagement\\Service\\ItemService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:10:53.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeToolTip": "LibraryManagement\\Service\\BookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:10:46.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowedItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\BorrowedItemService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Service\\BorrowedItemService.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Service\\BorrowedItemService.cs",
+              "RelativeToolTip": "LibraryManagement\\Service\\BorrowedItemService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:59:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:03:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "C:\\Users\\Bogzy\\Documents\\Simple-Library-Management-Exam\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T16:59:00.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
